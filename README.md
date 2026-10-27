@@ -9,7 +9,7 @@ Tenha um compilador C instalado (como o gcc). Use o terminal para executar.
 gcc main.c -o jogo
 ./jogo
 
-### No Windows:
+## No Windows:
 gcc main.c -o jogo.exe
 .\jogo.exe
 
